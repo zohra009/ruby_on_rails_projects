@@ -14,7 +14,7 @@ gem "rails", "~> 7.2.0"
 gem 'pg' # or 'sqlite3' for SQLite
 gem 'puma', '~> 6.0'
 gem 'bootsnap', '>= 1.4.4', require: false
-gem 'jbuilder', '~> 2.7'
+gem 'jbuilder', '~> 2.13'
 gem 'bootstrap', '~> 5.1.3'
 
 # Add other necessary gems here
