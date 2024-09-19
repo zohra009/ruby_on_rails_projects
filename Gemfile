@@ -12,7 +12,7 @@ end
 
 gem "rails", "~> 7.2.0"
 gem 'pg' # or 'sqlite3' for SQLite
-gem 'puma', '~> 6.0'
+gem 'puma', '~> 6.4'
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'jbuilder', '~> 2.7'
 gem 'bootstrap', '~> 5.1.3'
