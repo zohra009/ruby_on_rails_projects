@@ -5,7 +5,7 @@ source "https://rubygems.org"
 
 # Gems used only in the development and test environments
 group :development, :test do
-  gem 'sqlite3', '~> 1.5'
+  gem 'sqlite3', '~> 2.1'
 end
 
 
