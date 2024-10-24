@@ -10,7 +10,7 @@ end
 
 
 
-gem "rails", "~> 7.2.0"
+gem "rails", "~> 7.2.1"
 gem 'pg' # or 'sqlite3' for SQLite
 gem 'puma', '~> 6.0'
 gem 'bootsnap', '>= 1.4.4', require: false
